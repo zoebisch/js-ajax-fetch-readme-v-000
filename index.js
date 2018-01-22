@@ -20,6 +20,3 @@ fetch('https://api.github.com/user/repos', {
 // };
 //
 // xhr.send();
-
-
-//Token 4681d48de0cfdf4784780567ab6d6acc2fcdf1ff
